@@ -99,7 +99,7 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png", Cinema World
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png", AXN
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png", Warner TV
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png", DreamWorks
@@ -145,7 +145,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/y4WhpNb/FASHION-TV-BEARTV.png", Fashion TV
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
