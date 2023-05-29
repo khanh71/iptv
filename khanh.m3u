@@ -66,34 +66,34 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 // #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png", AXN
 // https://e4.endpoint.cdn.sctvonline.vn/hls/axn/index.m3u8
-// #EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/yAlxcWI.png", KIX
-// https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-// #EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics
-// https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
-// #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network
-// https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8
-// #EXTINF:-1 tvg-id="davinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="QUỐC TẾ", Da Vinci HD
-// https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-// #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360", Discovery Channel
-// https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8/
-// #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fFV6V3n/ASIA-BEARTV.png", Discovery Asia
-// https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8/
-// #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png", Animal Planet
-// https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8/
-// #EXTINF:-1  tvg-id="planetearthhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png", Planet Earth
-// https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bybeartv/
-// #EXTINF:-1  tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png", Woman
-// https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv/
-// #EXTINF:-1  tvg-id="drfithd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png", Dr. Fit
-// https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8/
-// #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ", Asian Food Network
-// https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-// #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png", Outdoor Channel
-// https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-// #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", Nasa TV
-// http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-// #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull
-// https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/yAlxcWI.png", KIX
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png", Hollywood Classics
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network
+https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="QUỐC TẾ", Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://eu1-prod-images.disco-api.com/2021/12/17/00975da0-9ab6-3065-b6fb-4213f1f4f591.png?bf=0&f=png&p=true&q=60&w=360", Discovery Channel
+https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8/
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fFV6V3n/ASIA-BEARTV.png", Discovery Asia
+https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/sd2/index.m3u8/
+#EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png", Animal Planet
+https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8/
+#EXTINF:-1  tvg-id="planetearthhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png", Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bybeartv/
+#EXTINF:-1  tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png", Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv/
+#EXTINF:-1  tvg-id="drfithd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C0hPRy2/Dr-Fit-BEARTV.png", Dr. Fit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8/
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ", Asian Food Network
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png", Outdoor Channel
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png", VTC1 HD
