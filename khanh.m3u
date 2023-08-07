@@ -29,7 +29,7 @@ http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996
 #EXTINF:-1 tvg-id="nhandan" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
 #EXTINF:0 tvg-id="vovtvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
-https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/AAWIPHz.png", VNews
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
