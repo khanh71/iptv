@@ -1,31 +1,31 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
-https://code.vthanhtivi.pw/getlink/mi/pOEEOPWGEo0HLvDikF0cvw/1700638485/210/playlist.m3u8
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv1-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
-https://code.vthanhtivi.pw/getlink/tv360/RP7vhdWuFShQsaKzujFfGw/1700638485/3/playlist.m3u8
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv2-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3      
-https://code.vthanhtivi.pw/getlink/mi/txzevl5eb54JkLZg3sQqWQ/1700638485/211/playlist.m3u8
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv3-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
-https://code.vthanhtivi.pw/getlink/tv360/TigBQytV03B-Sc72hpGo1w/1700638485/108/playlist.m3u8
+http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv4-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=110
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
-https://code.vthanhtivi.pw/getlink/mi/A2-OP2j0KL0nl-hBkF6MXQ/1700638485/212/playlist.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=98
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
-https://code.vthanhtivi.pw/getlink/tv360/Sms-Mau9nu-R3FMcOw__OQ/1700638485/6/playlist.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=6
 #EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
-https://code.vthanhtivi.pw/getlink/tv360/JGiDgl3dyOPgEvJrVCkzZg/1700638485/115/playlist.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=115
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
-https://code.vthanhtivi.pw/getlink/tv360/W4QhvfSnOC_3mYWOQWqx2A/1700638485/8/playlist.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=8
 
 
 #EXTINF:0 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/kzKZm1L.png", ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png", Quốc Hội
-https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=290
 #EXTINF:0 tvg-id="qpvnhd" group-title="TỔNG HỢP" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng
-http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996000_sleng.m3u8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=19
 #EXTINF:-1 tvg-id="nhandan" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png", Nhân Dân TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
 #EXTINF:0 tvg-id="vovtvhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
