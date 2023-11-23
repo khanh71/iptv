@@ -1,12 +1,12 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv1-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv2-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv3-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv4-hd/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
 http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=110
