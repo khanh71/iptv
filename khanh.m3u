@@ -1,38 +1,23 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml"
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv1hd.jpg" ,VTV1 HD 
-#EXTVLCOPT:http-user-agent=KhanggTivi
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv1-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv2hd.jpg" ,VTV2 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv2-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv3hd.jpg",VTV3 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv3-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv4hd.jpg",VTV4 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4
 http://vega-cliptv.106bec9d8.vws.khanggtivi.xyz/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/nWldYyfAkfvDAPDvW-PWMEul8Gg/vtv4-hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv5hd.jpg",VTV5 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=110
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv6hd.jpg",VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=98
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv7hd.jpg",VTV7 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=6
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv8hd.jpg",VTV8 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=115
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv9hd.jpg",VTV9 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/icon_channel_vtv5-tay-nam-bo_168048836001.jpg" ch-number="10", $ VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/vieon/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/1700319028/615/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://khanggne.github.io/logo/vtv/icon_channel_vtv5-tay-nguyen_168344480529.jpg" ch-number="11" , $ VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/116.106.225.220/chunklist.m3u8?vstv=207
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=110
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=98
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png",VTV7
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=6
+#EXTINF:-1 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png",VTV8
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=115
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png",VTV9
+http://f56ba39027.vws.khanggtivi.xyz/360/DnhmKJ-xkHoVzgU0OUicF4iPlIa-Wi_5SQMPBI5xoP6oN3I/171.246.193.163/chunklist.m3u8?vstv=8
 
 
 #EXTINF:0 tvg-id="antvhd" group-title="TỔNG HỢP" tvg-logo="https://i.imgur.com/kzKZm1L.png", ANTV HD
