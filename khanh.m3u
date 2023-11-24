@@ -169,3 +169,41 @@ https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA2
 #EXTINF:0 tvg-id="happykids" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/happykids.jpg",Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=212
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/231.png", CinemaWorld
+#EXTVLCOPT:http-user-agent=KhanggTivi
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/giitr/cinemaworld/master_dash.m3u8
+#EXTINF:-1 tvg-id="hits" group-title="QUỐC TẾ" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/233.png", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=107
+
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/02/13/io3wjkox_animax-ngang890fc73e3ecf15c8aac863fc6cc376a7_296_168.webp", Animax HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thiunhi/animax/master_dash.m3u8
+#EXTINF:0 tvg-id="cbeebies" group-title="THIẾU NHI" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/1mb04tg0_cbeebies_296_168.webp",Cbeebies HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thiunhi/bbccbeebies/master_dash.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/MSky_TV/180.jpg", Cartoonito HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thiunhi/cartoonitohd/master_dash.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="THIẾU NHI" tvg-name="KhanggTivi - Cartoon Network" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp" , Cartoon Network HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thiunhi/cartoonnetworkhd/master_dash.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="THIẾU NHI" tvg-logo="https://khanggne.github.io/logo/MSky_TV/dreamworks.jpg" , Dreamworks
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thiunhi/dreamworks/master_dash.m3u8
+
+
+#EXTINF:-1 tvg-id="animalhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp",Animal Planet HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/khmph/animalplanet/master_dash.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp", BBC Earth HD
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery Channel HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s//GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/khmph/discovery/master_dash.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="KHÁM PHÁ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/c6womgom_discovery-aisa_296_168.webp", Discovery Asia HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+http://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/khmph/discoveryasia/master_dash.m3u8
+#EXTINF:-1 tvg-id="lovenature" group-title="KHÁM PHÁ" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
