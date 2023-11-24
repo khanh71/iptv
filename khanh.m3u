@@ -1,5 +1,7 @@
 ﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
-	
+
+
+#------------------------------------VTHANHTIVI----------------------------------------------------------------
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png", VTV1
 https://code.vthanhtivi.pw/getlink/mi/Cv0-7f0iu4KGYrTNzo5REg/1700812181/210/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png", VTV2
@@ -109,6 +111,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtc14-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtc16-hd/playlist.m3u8
 
 
+#--------------------------------KHANGGTIVI----------------------------------------------------------------
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:anyativi.sytes.net/providers/0e46352c-d095-46a4-9791-83360c4912cc/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/1700751609/OHdE25de6Bua-svL-Zg-pHoxftE/playlist_dash.m3u8
@@ -124,3 +127,45 @@ https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:anyativi.sytes.net/providers/GO
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:anyativi.sytes.net/providers/a1fcadef-fbd0-401f-b3ac-ddbe9bfb3b35/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/1700751609/OHdE25de6Bua-svL-Zg-pHoxftE/playlist_dash.m3u8
+
+
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="QUỐC TẾ", HBO HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+#https://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/hbogo/hbo/master_dash.m3u8
+http://cdnlive.vthanhtivi.pw/hbo/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="QUỐC TẾ", Cinemax HD
+#EXTVLCOPT:http-user-agent=KhanggTivi
+#https://f56ba39027.vws.khanggtivi.xyz/hls_vod2/1080p1s/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/giitr/cinemaxhd/master_dash.m3u8
+http://cdnlive.vthanhtivi.pw/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thebox/thebox/post/master.m3u8
+#EXTINF:0 tvg-id="boxmovie1" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg",Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thebox/boxmovie/post/master.m3u8
+#EXTINF:-1 tvg-id="boxhits" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg",Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thebox/boxhit/post/master.m3u8
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/hollywoodclassics.jpg",Hollywood Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thebox/hollywoodclassics/post/master.m3u8
+#EXTINF:0 tvg-id="drfithd" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/drfithd.jpg",DR.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=162
+#EXTINF:0 tvg-id="woman" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/woman.jpg",Woman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=163
+#EXTINF:-1 tvg-id="man" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/man.jpg", Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=237
+#EXTINF:0 tvg-id="planetearthhd" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/planetearthhd.jpg",Planet Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=135
+#EXTINF:-1 tvg-id="musicbox" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/musicbox.jpg", Music Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://f56ba39027.vws.khanggtivi.xyz/hls_vod/1080p/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/thebox/musicbox/post/master.m3u8
+#EXTINF:0 tvg-id="happykids" group-title="QUỐC TẾ" tvg-logo="https://khanggne.github.io/logo/happykids.jpg",Happy Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+http://f56ba39027.vws.khanggtivi.xyz/360/GOsP6iOnKRNy0IQDds0vP6Xz3OA26nZvWIdCJV34Ia5ibYw/116.106.225.220/chunklist.m3u8?vstv=212
